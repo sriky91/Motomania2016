@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/imgBack"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffefd5"
+   >
+
+
+   <ScrollView 
+        android:layout_width="match_parent"
+    	android:layout_height="match_parent"
+       >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+         >
+		<RelativeLayout 
+		    android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+		    >
+	        <TextView
+	            android:id="@+id/name_pilota"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:paddingTop="15dp"
+	            android:paddingBottom="10dp"
+	            android:gravity="center_horizontal"
+	            android:textColor="#000000"
+	            android:textSize="21sp"
+	            android:textStyle="bold" 
+	            android:text="Marc Marquez"
+	            />
+
+        	<ImageView
+        	    android:id="@+id/iv_read"
+        	    android:layout_width="55dp"
+        	    android:layout_height="55dp"
+        	    android:layout_alignParentRight="true"
+        	    android:layout_alignParentTop="true"
+        	    android:src="@drawable/play"
+        	    android:padding="10dp" 
+        	    />
+        </RelativeLayout>
+        
+        <ImageView
+            android:id="@+id/imgPilot"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+        />
+        
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:padding="10dp"
+            android:textSize="17sp"
+            android:textColor="#000000" />
+        
+        <LinearLayout 
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:weightSum="2"
+            >
+            
+            <TextView
+                android:id="@+id/tv_data"
+	            android:layout_width="0dp"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="left"
+	            android:padding="10dp"
+	            android:textSize="17sp"
+	            android:textColor="#000000" 
+            />
+            
+            <ImageView
+		        android:id="@+id/imageview_num"
+		        android:layout_width="0dp"
+		        android:layout_weight="1"
+		        android:layout_height="120dp"
+	        />
+        </LinearLayout>
+        
+        
+        
+    </LinearLayout>
+    
+    </ScrollView>
+
+</RelativeLayout>

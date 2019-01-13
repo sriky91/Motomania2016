@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="circuit_date">
+        <item/>
+   		<item>29 Marzo</item>
+   		<item>3 Aprile</item>
+   		<item>10 Aprile</item>
+   		<item>24 Aprile</item>
+   		<item>8 Maggio</item>
+   		<item>22 Maggio</item>
+   		<item>5 Giugno</item>
+   		<item>26 Giugno</item>
+   		<item>17 Luglio</item>
+   		<item>14 Agosto</item>
+   		<item>21 Agosto</item>
+   		<item>4 Settembre</item>
+   		<item>11 Settembre</item>
+   		<item>25 Settembre</item>
+   		<item>16 Ottobre</item>
+   		<item>23 Ottobre</item>
+   		<item>30 Ottobre</item>
+   		<item>13 Novembre</item>
+   	</string-array>
+    <string-array name="day_of_week">
+        <item>Domenica</item>
+        <item>Lunedì</item>
+        <item>Martedì</item>
+        <item>Mercoledì</item>
+        <item>Giovedì</item>
+        <item>Venerdì</item>
+        <item>Sabato</item>
+    </string-array>
+    <string-array name="month">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="time_before">
+        <item> 0 Minuti</item>
+        <item> 5 Minuti</item>
+        <item>10 Minuti</item>
+        <item>15 Minuti</item>
+        <item>30 Minuti</item>
+        <item>45 Minuti</item>
+        <item> 1 Ora</item>
+    </string-array>
+    <string-array name="titles_navigation_bar">
+        <item>Articoli</item>
+        <item>Ultime notizie</item>
+        <item>Risultati</item>
+        <item>Piloti</item>
+    </string-array>
+    <string name="advance">Anticipo:</string>
+    <string name="all_events">TUTTI gli Eventi</string>
+    <string name="app_name">Motomania</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> sta riscontrando problemi con Google Play Services. Se il problema persiste, contatta lo sviluppatore per ricevere assistenza."</string>
+    <string name="json_article">article_it.json</string>
+    <string name="json_lastHour">lastHour_it.json</string>
+    <string name="menu_articles">Articoli</string>
+    <string name="menu_last_hour">Ultime notizie</string>
+    <string name="menu_pilots">Piloti</string>
+    <string name="menu_results">Risultati</string>
+    <string name="menu_settings">Impostazioni</string>
+    <string name="notify">Notifiche</string>
+    <string name="notify_mex">Tra %1$s comincerà: </string>
+    <string name="only_race">SOLO Gare</string>
+    <string name="pilot_data_podiums">Podi: </string>
+    <string name="pilot_data_starts">GP disputati: </string>
+    <string name="pilot_data_wins">GP vinti: </string>
+    <string name="pilot_data_worldchampionship">Titoli Mondiali: </string>
+    <string name="progressdialog_article">Scaricamento Articoli …</string>
+    <string name="progressdialog_lastHour">Scaricamento Ultima Ora …</string>
+    <string name="sound">Suono</string>
+    <string name="tast_results_GP">I risultati saranno disponibili dopo il primo GranPremio</string>
+    <string name="tast_results_are_not">I risultati non ci sono ancora</string>
+    <string name="tast_results_race_is_not_made">Gara non ancora disputata</string>
+    <string name="title_section1">Articoli</string>
+    <string name="title_section2">Ultime notizie</string>
+    <string name="title_section3">Risultati</string>
+    <string name="title_section4">Orari</string>
+    <string name="title_section5">Piloti</string>
+    <string name="toast_no_internet">Mi spiace ma per visualizzare i risultati ha bisogno di internet</string>
+    <string name="toast_press_back_to_exit">Ripremi indietro per uscire</string>
+    <string name="toast_results_in_downloading">Risultati in scaricamento</string>
+    <string name="url_results">http://motogp2014.altervista.org/risultati.json</string>
+    <string name="vibration">Vibrazione</string>
+</resources>

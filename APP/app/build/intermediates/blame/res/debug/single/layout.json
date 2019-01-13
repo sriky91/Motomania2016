@@ -1,0 +1,190 @@
+[
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/last_hour.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/last_hour.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_circuits.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_circuits.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_adapter_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_adapter_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_article.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_article.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/article.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/article.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/view_pager_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/view_pager_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_navigation_drawer.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_navigation_drawer.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/dialog_orari_setting.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/dialog_orari_setting.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_lasthour.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_lasthour.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/layout_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/layout_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/pilots_description.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/pilots_description.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_include.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_circuit.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_circuit.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_screen.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_screen.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tab.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_tabbar.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/dialog_result.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/dialog_result.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_main.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_main.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_result.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_result.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/norml_pilots_fragment.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/norml_pilots_fragment.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/layout_article.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/layout_article.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/layout/fragment_navigation_drawer.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/layout/fragment_navigation_drawer.xml"
+    }
+]

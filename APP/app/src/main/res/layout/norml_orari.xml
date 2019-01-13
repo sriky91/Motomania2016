@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="25dp" 
+    >
+    <TextView 
+        android:id="@+id/tv_categoria"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="19sp"
+        android:textColor="#555555"
+        />
+    <TextView 
+        android:id="@+id/tv_tipologia"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FF8000"
+        android:textSize="18sp"
+        android:paddingLeft="10dp"
+        />
+    <TextView 
+        android:id="@+id/tv_orario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="right"
+        android:textSize="18sp"
+        android:textColor="#555555"
+        />
+</LinearLayout>

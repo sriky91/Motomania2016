@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="circuit_date">
+   		<item>20 March</item>
+   		<item>03 April</item>
+   		<item>10 April</item>
+   		<item>24 April</item>
+   		<item>8 May</item>
+   		<item>22 May</item>
+   		<item>5 June</item>
+   		<item>26 June</item>
+   		<item>17 July</item>
+   		<item>14 August</item>
+   		<item>21 August</item>
+   		<item>4 September</item>
+   		<item>11 September</item>
+   		<item>25 September</item>
+   		<item>16 October</item>
+   		<item>23 October</item>
+   		<item>30 October</item>
+   		<item>13 November</item>
+   	</string-array>
+    
+    <string-array name="month">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    
+    <string-array name="day_of_week">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>

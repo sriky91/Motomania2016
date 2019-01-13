@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="news.motogp"
+    android:versionCode="9"
+    android:versionName="1.7.5" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="20" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application
+        android:name="news.motogp.application.MotomaniaApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/Theme.AppCompat.Light" >
+        <activity
+            android:name="news.motogp.activity.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="news.motogp.activity.ArticleSingleActivity" />
+        <activity
+            android:name="news.motogp.activity.OrariActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="news.motogp.activity.ResultActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+        <activity
+            android:name="news.motogp.activity.PilotsActivity"
+            android:theme="@android:style/Theme.NoTitleBar" />
+
+        <receiver android:name="news.motogp.alarm.AlarmReceiver" />
+        <receiver
+            android:name="news.motogp.alarm.BootReceiver"
+            android:enabled="false" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="news.motogp.alarm.SchedulingService" />
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+    </application>
+
+</manifest>

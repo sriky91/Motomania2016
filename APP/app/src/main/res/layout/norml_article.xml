@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     android:id="@+id/race1"
+     style="@style/nowCardStyle"
+     android:layout_width="match_parent"
+     android:layout_height="200dp" 
+     android:tag="gara1" >
+     
+     <TextView
+         android:id="@+id/tvWhere"
+         android:layout_width="match_parent"
+         android:layout_height="200dp"
+         android:background="@drawable/gradient"
+         android:gravity="center|bottom"
+         android:text=""
+         android:textColor="#000000" />
+
+     <ImageView
+         android:id="@+id/ivRace"
+         android:layout_width="match_parent"
+         android:layout_height="172dp"
+         />
+
+     <TextView
+         android:layout_width="40dp"
+         android:layout_height="30dp"
+         android:id="@+id/tvWhen"
+         android:layout_alignLeft="@+id/tvWhere"
+         android:layout_alignTop="@+id/tvWhere"
+         android:layout_margin="1dp"
+         android:padding="1dp"
+         android:text="21/10"
+         android:textColor="#000000"
+         android:textSize="12sp" 
+         android:textStyle="bold"
+         android:layout_marginLeft="10dp"
+         />
+
+
+ </RelativeLayout>

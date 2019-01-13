@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/release/raw/gtm_analytics",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/release/raw/motogp_sound.mp3",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/raw/motogp_sound.mp3"
+    }
+]

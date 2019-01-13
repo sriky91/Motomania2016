@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/menu/article_voice.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/menu/article_voice.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/menu/global.xml"
+    }
+]

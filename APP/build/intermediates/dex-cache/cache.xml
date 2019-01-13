@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_a64f506beccb0f332c6faf39ff6c356a215d7618.jar" />
+    </item>
+    <item
+        jar="/Applications/android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_bb8fc4b87e494647b10c9f69cc588c55591b7889.jar" />
+    </item>
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_925c42022151af748983c139de4ce6698194495b.jar" />
+    </item>
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_485bc29f4f8bb232dede0fecda97a49c61651971.jar" />
+    </item>
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-18.0.0_e31501247fff546a866d5d4a928dc9407e0332ea.jar" />
+    </item>
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_2ea5330e7cefb61b2b1e84f6d6cac9dfa76924d0.jar" />
+    </item>
+    <item
+        jar="/Users/sriky/Documents/Motomania16/APP/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3_e2d0242b1f92bd8ea9642a0108d22e2a51e95471.jar" />
+    </item>
+
+</items>

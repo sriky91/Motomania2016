@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/custom_btn_orange.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/custom_btn_orange.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_search_dropdown_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/gradient.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/gradient.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_right_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/tab_date.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/tab_date.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/tab_orari.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/tab_orari.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/gradient_papaya_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/gradient_papaya_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_ab_holo.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/check_box.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/check_box.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/gradient_papaya_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/gradient_papaya_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/radio_btn.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/radio_btn.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/gradient_grey.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/gradient_grey.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/tab_selector.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/tab_selector.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_textfield_searchview_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/custom_btn_orange_off.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/src/main/res/drawable/custom_btn_orange_off.xml"
+    },
+    {
+        "merged": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/sriky/Documents/Motomania16/APP/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_dark.xml"
+    }
+]

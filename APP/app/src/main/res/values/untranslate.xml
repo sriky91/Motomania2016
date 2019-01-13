@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="internet_unavaible" translatable="false">Network not avaible</string>
+
+    <string name="position_position" translatable="false">Pos</string>
+    <string name="position_pilot" translatable="false">Rider</string>
+    <string name="position_points" translatable="false">PT</string>
+    <string name="position_bike" translatable="false">Bike</string>
+    <string name="position_time" translatable="false">Time</string>
+    <string name="position_result" translatable="false">Results</string>
+
+    <string name="url_results_vecchio" translatable="false">http://www.motogp.dx.am/risultati/gare_e_mondiale.json</string>
+
+    <string-array name="circuit_name" translatable="false">
+        <item>COMMERCIAL BANK GRAND PRIX OF QATAR</item>
+        <item>GRAN PREMIO MOTUL DE LA REPÚBLICA ARGENTINA</item>
+        <item>RED BULL GRAND PRIX OF THE AMERICAS</item>
+        <item>GRAN PREMIO RED BULL DE ESPAÑA</item>
+        <item>MONSTER ENERGY GRAND PRIX DE FRANCE</item>
+        <item>GRAN PREMIO D\'ITALIA TIM</item>
+        <item>GRAN PREMI MONSTER ENERGY DE CATALUNYA</item>
+        <item>MOTUL TT ASSEN</item>
+        <item>GOPRO MOTORRAD GRAND PRIX DEUTSCHLAND</item>
+        <item>NEROGIARDINI MOTORRAD GRAND PRIX VON ÖSTERREICH</item>
+        <item>GRAND PRIX ČESKÉ REPUBLIKY</item>
+        <item>OCTO BRITISH GRAND PRIX</item>
+        <item>GRAN PREMIO TIM DI SAN MARINO E DELLA RIVIERA DI RIMINI</item>
+        <item>GRAN PREMIO MOVISTAR DE ARAGÓN</item>
+        <item>MOTUL GRAN PRIX OF JAPAN</item>
+        <item>MICHELIN AUSTRALIAN MOTORCYCLE GRAND PRIX</item>
+        <item>SHELL MALAYSIA MOTORCYCLE GRAND PRIX</item>
+        <item>GRAN PREMIO DE LA COMUNITAT VALENCIANA</item>
+    </string-array>
+
+    <string-array name="cities" translatable="false">
+        <item>Losail internal Circuit | Qatar</item>
+        <item>Termas de Río Hondo | Argentina</item>
+        <item>Circuit Of The Americas | United States</item>
+        <item>Jerez de la Frontera | Spain</item>
+        <item>Le Mans | France</item>
+        <item>Mugello | Italy</item>
+        <item>Circuit de Barcelona-Catalunya | Spain</item>
+        <item>TT Assen | Netherlands</item>
+        <item>Sachsenring | Germany</item>
+        <item>Red Bull Ring | Spielberg</item>
+        <item>Brno | Czech Republic</item>
+        <item>Silverstone | Great Britain</item>
+        <item>Misano | Italy</item>
+        <item>MotorLand Aragon | Spain</item>
+        <item>Twin Ring Motegi | Japan</item>
+        <item>Phillip Island | Australia</item>
+        <item>Sepang International Circuit | Malaysia</item>
+        <item>Comunitat Valenciana - Ricardo Tormo | Spain</item>
+    </string-array>
+
+    <string-array name="circuit_city" translatable="false">
+        <item>Losail internal Circuit | Qatar</item>
+        <item>Termas de Río Hondo | Argentina</item>
+        <item>Circuit Of The Americas | United States</item>
+        <item>Circuito de Jerez | Spain</item>
+        <item>Le Mans | France</item>
+        <item>Autodromo del Mugello | Italy</item>
+        <item>Circuit de Barcelona-Catalunya | Spain</item>
+        <item>TT Circuit Assen | Netherlands</item>
+        <item>Sachsenring | Germany</item>
+        <item>Red Bull Ring | Spielberg</item>
+        <item>Automotodrom Brno | Czech Republic</item>
+        <item>Silverstone Circuit | Great Britain</item>
+        <item>Misano WC Marco Simoncelli | Italy</item>
+        <item>MotorLand Aragon | Spain</item>
+        <item>Twin Ring Motegi | Japan</item>
+        <item>Phillip Island | Australia</item>
+        <item>Sepang International Circuit | Malaysia</item>
+        <item>Comunitat Valenciana - Ricardo Tormo | Spain</item>
+    </string-array>
+</resources>

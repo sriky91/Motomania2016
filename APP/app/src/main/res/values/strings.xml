@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Motomania</string>
+    <string name="title_section1">Articles</string>
+    <string name="title_section2">Last hour</string>
+    <string name="title_section3">Results</string>
+    <string name="title_section4">Schedule</string>
+    <string name="title_section5">Riders</string>
+
+    <string-array name="titles_navigation_bar">
+        <item>Articles</item>
+        <item>Results</item>
+        <item>Schedule</item>
+        <item>Riders</item>
+    </string-array>
+
+    <string name="json_article">article_en.json</string>
+    <string name="json_lastHour">lastHour_en.json</string>
+    
+	<string name="menu_articles">Articles</string>
+    <string name="menu_last_hour">Last hour</string>
+    <string name="menu_results">Results</string>
+    <string name="menu_pilots">Pilots</string>
+    <string name="menu_settings">Settings</string>
+    
+    
+    <string name="toast_press_back_to_exit">Press back again to Exit.</string>
+
+    <string name="tast_results_GP">The World Standings will be available after the first Gran Prix</string>
+    
+    <string name="tast_results_are_not">There are not the results yet</string>
+    <string name="toast_no_internet">This app requires internet</string>    
+    <string name="toast_results_in_downloading">Results downloading</string>
+    
+    <string name="tast_results_race_is_not_made">The results will be avaible after the race</string>
+    
+    
+    <string name="progressdialog_lastHour">Last hour downloading &#8230;</string>
+    <string name="progressdialog_article">Articles downloading &#8230;</string>
+
+    <string name="url_results">http://motogp2014.altervista.org/risultati.json</string>
+
+    <string name="pilot_data_starts">Starts:&#160;</string>
+    <string name="pilot_data_wins">Wins:&#160;</string>
+    <string name="pilot_data_podiums">Podiums:&#160;</string>
+    <string name="pilot_data_worldchampionship">World Championships:&#160;</string>
+    
+    <string name="notify">Notifications</string>
+	<string name="only_race">ONLY race</string>
+    <string name="all_events">ALL Events</string>
+    <string name="advance">Advance:</string>
+    <string name="vibration">Vibration</string>
+    <string name="sound">Sound</string>  
+    
+    <string-array name="time_before">
+        <item> 0 Minutes</item>
+        <item> 5 Minutes</item>
+        <item>10 Minutes</item>
+        <item>15 Minutes</item>
+        <item>30 Minutes</item>
+        <item>45 Minutes</item>
+        <item> 1 Hour</item>
+    </string-array>
+    
+    <string name="notify_mex">The %1$s will start in %2$s</string>
+    
+</resources>
